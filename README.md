@@ -70,4 +70,5 @@ A justificativa completa está detalhada no notebook, com apoio nos gráficos e 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/alurastorebr.git
+   git clone https://github.com/MatheusLadeia/Challenge_amigo_secreto_Data_Science.git
+

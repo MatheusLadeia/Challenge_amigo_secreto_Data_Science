@@ -72,3 +72,20 @@ A justificativa completa está detalhada no notebook, com apoio nos gráficos e 
    ```bash
    git clone https://github.com/MatheusLadeia/Challenge_amigo_secreto_Data_Science.git
 
+2. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Abra o notebook AluraStoreBr - Respondido.ipynb em seu ambiente Jupyter:
+   ```bash
+   jupyter notebook
+
+**No Google Colab:**
+
+- Acesse Google Colab, clicando [aqui](https://colab.research.google.com/drive/SEU_LINK_AQUI).
+
+
+ - Selecione "Abrir notebook" e faça o upload do arquivo AluraStoreBr - Respondido.ipynb ou abra diretamente do seu Google Drive.
+
+4. Execute as células do notebook para visualizar a análise e gráficos gerados.
+   

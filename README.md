@@ -82,7 +82,7 @@ A justificativa completa está detalhada no notebook, com apoio nos gráficos e 
 
 **No Google Colab:**
 
-- Acesse Google Colab, clicando [aqui](https://colab.research.google.com/drive/SEU_LINK_AQUI).
+- Acesse Google Colab, clicando [aqui](https://colab.research.google.com).
 
 
  - Selecione "Abrir notebook" e faça o upload do arquivo AluraStoreBr - Respondido.ipynb ou abra diretamente do seu Google Drive.
